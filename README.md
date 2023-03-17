@@ -10,7 +10,7 @@
 
 ----
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=about.me&logoColor=white)](http://felipeleite.me) 
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=about.me&logoColor=white)](http://felipeleite.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felbart.ux)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/felbart)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/felbart)
