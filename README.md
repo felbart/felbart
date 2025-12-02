@@ -38,7 +38,7 @@ Construindo experiências digitais que unem design, tecnologia e propósito.
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipeleite.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felbart)
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/felbart)
-[![Instagram](https://img.shields.io/badge/@felipeleite.design-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipeleite.design)
+[![Instagram](https://img.shields.io/badge/@efelipeleite-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efelipeleite)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@felbart)
 
 ---
