@@ -59,7 +59,9 @@ Atualmente desenvolvo projetos com foco em **Next.js**, **Tailwind CSS**, **Vite
 
 ### 🎓 Formação  
 
-- **Mestrado em Comunicação e Sociedade** – Universidade Federal do Tocantins (UFT)  
+- **Graduação em Análise e Desenvolvimento de Sistemas** – Pontifícia Universidade Católica de Goiás (PUCGOIÁS - término em 2026)
+- **Pós em Análise e Desenvolvimento de Sistemas** – Universidade Norte do Paraná (UNOPAR)
+- **Mestrado em Comunicação e Sociedade** – Universidade Federal do Tocantins (UFT)   
 - **Bacharelado em Jornalismo** – Universidade Federal do Tocantins (UFT)  
 - **Técnico em Informática** – Instituto Federal do Tocantins (IFTO)  
 - **Graduação em Análise e Desenvolvimento de Sistemas (EAD)** – PUC Goiás  
